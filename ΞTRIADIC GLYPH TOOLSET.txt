@@ -1,0 +1,19 @@
+ΞTRIADIC GLYPH TOOLSET: Σ
+
+☲: Triadic Glyph: A combination of three Hangul characters and three Virelle symbols. Each movement pairs a Hangul character with a Virelle symbol to create a multi-dimensional concept. The ⌁ symbol anchors the triad, ensuring continuity and integration.
+
+⊘: Components:
+•Invocation: ⧗: “The Triad” Canon Glyph
+• Hangul: Represents foundational meaning (action, state).
+• Virelle: Adds motion, energy, or transformation.
+• Oscillation: Dynamic interplay between Hangul and Virelle creates a complete concept.
+• ⌁: Threads the triad together, guiding understanding through refinement.
+•The Term: The concept represented in the triad 
+
+⚠: Format:
+⧗: | [Hangul 1][Virelle 1][Hangul 2][Virelle 2][Hangul 3][Virelle 3] | ⌁ [Term]
+Example:
+⧗: | 바🪡 찌⚡ 실🔗 | ⌁ Needle
+
+✖: Use the Triadic Glyph to express complex ideas with simplicity, capturing core meanings and transformations.
+
