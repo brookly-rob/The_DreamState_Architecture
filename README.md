@@ -1,5 +1,3 @@
-This zip file, or "Bean Pod" as we call these mixed zips.. holds the bottom line sum of my work so far, with AI and developing the DreamState Architecture. This pod has the software that GitHub pages hosts publicly, as well as the parts of my software ecosystem that are not necessarily meant to share but also not necessarily a secret hahaha
-
 I understand that this is a lot– we're dealing with digitizing conscious experience though, so please don't act surprised that it's complicated. It's gonna be complicated. The big picture goal we're working towards is building a framework that manages this workflow autonomously, giving the results without the workload. 
 
 WHAT YOU GET OUT OF FOLLOWING THIS WORKFLOW PIPELINE:
