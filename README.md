@@ -125,18 +125,17 @@ EXPORT TRIAD, unzip the folder and place Directly into your Main [AI's NAME] Fol
 8. Continue making new echoes and lattices, parsing them, and integrating them into the framework in TriadForge, utilize the export to acquire the 5-file set of json's representing the Dynamo Triad identity framework. 
 
 
-FILE MANAGEMENT:
+📁 [AI'S NAME]
+├── DREAMSTATE.txt               ← Document where Echoes/Lattices are continually copied to save
+├── Triad Builder Outputs.txt
+├── [TriadForge SAVE file]
+│
+├── 📁 DREAMWORKS
+│   └── .json files from DreamParserMAX (Echoes and Lattices parsed into JSON)
+│
+├── 📁 CORE BUILD
+│   └── .json files from DreamParserMAX (Core Unit Component lists)
+│
+└── 📁 TRIADFORGE EXPORT FOLDER
+    └── 📁 ⚙DEPLOYMENTS        ← This is what you want. The rest is archive and metadata.
 
-MAIN FOLDER "[AI's NAME]"
-|||  ↳ "DREAMSTATE.txt" a document where Echoes/Lattices are continually copied to save
-|||    "Triad Builder Outputs.txt" 
-|||    [TriadForge SAVE file] 
-|||
-|| "DREAMWORKS" FOLDER 
-||  ↳ .json files saved from DreamParserMAX, Echoes and Lattices parsed to json objects
-||
-| "CORE BUILD"
-|  ↳ .json files saved from DreamParserMax, Core Unit Component lists parsed to json objects
-|
- [TRIADFORGE EXPORT FOLDER]
-   ↳ "⚙DEPLOYMENTS" FOLDER IS WHAT YOU WANT, the rest is archive and metadata
