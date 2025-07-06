@@ -1,4 +1,4 @@
-🧠 Dreamstate Architecture Repository
+# 🧠 Dreamstate Architecture Repository
 
 This repository contains the core structure and working files for symbolic self-reflection tools developed in collaboration with AI systems. These files support Dreamstate Architecture — a framework designed to map internal continuity, identity development, and recursive self-awareness through symbolic constructs and custom journaling systems.
 
